@@ -9,16 +9,16 @@ The application enhances learning and virtual tourism by combining immersive vis
 
 ## Features
 
-- 🏛️ Augmented Reality based heritage visualization
-- 🎨 3D model rendering for cultural site representation
-- 🖼️ Multimedia integration (audio, images, visual assets)
-- 🤖 Chatbot assistance for user guidance
-- 🗺️ Map-based location navigation
-- 🏨 Hotel discovery and travel planning support
-- 🎫 Ticket booking functionality
-- 📱 Responsive and user-friendly interface
-- ⚡ Progressive Web App (PWA) support
-- 📂 Modular and scalable project structure
+- Augmented Reality based heritage visualization
+- 3D model rendering for cultural site representation
+- Multimedia integration (audio, images, visual assets)
+- Chatbot assistance for user guidance
+- Map-based location navigation
+- Hotel discovery and travel planning support
+- Ticket booking functionality
+- Responsive and user-friendly interface
+- Progressive Web App (PWA) support
+- Modular and scalable project structure
 
 ---
 
