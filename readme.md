@@ -24,25 +24,48 @@ The application enhances learning and virtual tourism by combining immersive vis
 
 ## Installation & Setup
 
-### 1. Clone the repository
-```
-git clone https://github.com/YOUR_USERNAME/AR_Heritage_App.git
+### **1. Clone the Repository**
+
+```bash
+git clone https://github.com/RiyaJayanti/AR_Heritage_App.git
 ```
 
-### 2. Navigate to project folder
-```
+---
+
+### **2. Navigate to Project Folder**
+
+```bash
 cd AR_Heritage_App
 ```
 
-### 3. Run the project
-Open the project in a browser or run using a local server.
+---
 
-Example using VS Code Live Server:
-- Install Live Server extension
+### **3. Run the Frontend (Web Interface)**
+
+- Install **Visual Studio Code**
+- Install the **Live Server** extension
+- Open the project folder in VS Code
 - Right click `index.html`
 - Click **Open with Live Server**
 
+The application will open in your browser automatically.
+
 ---
+
+### **4. Run Backend (Gesture Recognition & Processing)**
+
+Install required dependencies:
+
+```bash
+pip install opencv-python mediapipe numpy
+```
+
+Run the backend script:
+
+```bash
+python main.py
+```
+
 
 ## Use Cases
 
